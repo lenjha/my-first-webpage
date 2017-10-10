@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{My first webpage <3}, {October 2017}_
+#### _My first webpage <3, October 2017_
 
-#### By _**{Lena Ha, Tyler Bussanich}**_
+#### By _**Lena Ha, Tyler Bussanich**_
 
 ## Description
 
-_{This is a practice webpage to experiment upon}_
+_This is a practice webpage to experiment upon_
 
 ## Setup/Installation Requirements
 
@@ -16,22 +16,22 @@ _{This is a practice webpage to experiment upon}_
 * _easy-to-understand_
 * _format_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?_
 
 ## Known Bugs
 
-_{This webpage is not aesthetically pleasing.  I apologize.}_
+_This webpage is not aesthetically pleasing.  I apologize._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code._
 
 ## Technologies Used
 
-_{This webpage uses HTML.}_
+_This webpage uses HTML._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
 Copyright (c) 2016 **_{Lena Ha, Tyler Bussanich}_**
